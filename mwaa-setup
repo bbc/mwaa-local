@@ -2,7 +2,7 @@
 # Original script: https://github.com/aws/aws-mwaa-local-runner
 
 AIRFLOW_VERSION=2_5
-DOCKER_COMPOSE_PROJECT_NAME=bbc-data-tech-test-mwaa-$AIRFLOW_VERSION
+DOCKER_COMPOSE_PROJECT_NAME=local-mwaa-$AIRFLOW_VERSION
 
 display_help() {
    # Display Help
